@@ -1,5 +1,5 @@
 # vhf-uhf-satellite-yagi
-
+![Image](https://pbs.twimg.com/media/FYg9z-lXEAIKCeJ?format=jpg&name=small)
 ## Introduction
 This repo contains simulations, pictures and 3D models to built your own dual-band 2m (VHF) and 70cm (UHF) yagi.
 The simulation assumes 4 elements on 2 m and 7 elements on 70 cm. If you need another configuration you must modify the simulation accordingly to determine the new spacings and element sizes.
