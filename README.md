@@ -15,7 +15,7 @@ The materials I used or this built are:
 * coaxial feedline of your choice. I used short runs of RG-58CU cable
 * cable shoes and M2 screws to attach the coax to the elements. I don't really like this solution. Maybe you have a better idea?
 * cable ties if you want to mount your coax along the boom
-* glue of your choice to glue fix tehe 3d printed element mounts to the boom. I used 2 component adhesive
+* glue of your choice to glue fix the 3d printed element mounts to the boom. I used 2 component adhesive
 
 Note:
 You can use painters or electrical tape to mark the initial element positions when fitting the 3D printed mounts
@@ -25,6 +25,7 @@ You can use painters or electrical tape to mark the initial element positions wh
 The simulations are done using MMana-Gal. The design frequencies are 145.9 MHz and 436.5 MHz, the mid point of the 2 m and 70 cm amateurradio satellite band. As this simualtion has two different antennas you must specify the correct driven element to get right results:
 * w2c is the 2 m driven  element
 * w6c is the 70 cm driven element
+
 Note:
 Instead of changing the excitation amplitude to the desired element, make sure the the driven element is always source 1 as I ran into aborting simulations when setting the amplitude of source one to zero and the amplitude of source two to one.
 
